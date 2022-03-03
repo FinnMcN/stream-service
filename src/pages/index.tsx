@@ -22,7 +22,6 @@ const Home: NextPage = () => {
     const { isDark } = useTheme();
 
     useEffect(() => {
-        console.log(filmsData);
         setFilms(filmsData);
     }, []);
 

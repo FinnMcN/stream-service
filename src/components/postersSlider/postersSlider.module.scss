@@ -13,6 +13,11 @@
     border-radius: 15px;
     background: linear-gradient(166deg, rgba(2, 0, 36, 1) 0%, rgba(0, 212, 255, 1) 100%);
     color: #fff;
-    width: fit-content;
+    display: inline-block;
+    text-align: center;
     cursor: pointer;
+    transition: box-shadow ease 0.5s;
+    &:hover {
+        box-shadow: 10px 7px 9px 0px rgba(33, 165, 191, 1);
+    }
 }

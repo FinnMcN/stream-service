@@ -61,5 +61,392 @@
         "genre": "Animation, Adventure, Comedy ",
         "rating": "4.7",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTA4NmFiZjQtYWI2NC00Y2Y0LWI5M2ItOTcwZmM5YzliOGViXkEyXkFqcGdeQXVyNjMwMTM0MTA@.jpg"
+    },
+    {
+        "title": "Падение Луны",
+        "query": "tt5834426",
+        "certificate": "16+",
+        "runtime": "130 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "5.3",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2IyMzhkOTMtYTlhNS00OWY4LWFkNTYtMzllYTU4ZmM5ODk1XkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Монстры на каникулах: Трансформания",
+        "query": "tt9848626",
+        "certificate": "6+",
+        "runtime": "87 min",
+        "genre": "Animation, Adventure, Comedy ",
+        "rating": "6.1",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGUxODllYTAtNTBkMC00YjYxLTkyODMtYzgxOWY3ZjUyYjlmXkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "King's Man: Начало",
+        "query": "tt6856242",
+        "certificate": "16+",
+        "runtime": "131 min",
+        "genre": "Action, Adventure, Thriller ",
+        "rating": "6.7",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmYxODgyNjItZDFmOS00MzFhLTg1NmUtNmEzNTk4MGM5YTkzXkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Не время умирать",
+        "query": "tt2382320",
+        "certificate": "12+",
+        "runtime": "163 min",
+        "genre": "Action, Adventure, Thriller ",
+        "rating": "7.4",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@.jpg"
+    },
+    {
+        "title": "Отряд самоубийц: Миссия навылет",
+        "query": "tt6334354",
+        "certificate": "18+",
+        "runtime": "132 min",
+        "genre": "Action, Adventure, Comedy ",
+        "rating": "7.2",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWVjZTg1MTItZjMyNC00NTMyLWFmMzctZWU3MmJhM2EzOGM5XkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Дочь короля",
+        "query": "tt2328678",
+        "certificate": "PG",
+        "runtime": "90 min",
+        "genre": "Action, Adventure, Family ",
+        "rating": "5.1",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmMyYzA2NTctMmQ0Mi00N2Y3LTljODktZDc5N2M1NWM5NGQ2XkEyXkFqcGdeQXVyMDA4NzMyOA@@.jpg"
+    },
+    {
+        "title": "Доктор Стрэндж и мультивселенная безумия",
+        "query": "tt9419884",
+        "certificate": "16+",
+        "runtime": "",
+        "genre": "Action, Adventure, Fantasy ",
+        "rating": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTU3N2Y1NzYtNmU1My00MmYxLTliNjgtNmY5ZmFkY2JlYjA4XkEyXkFqcGdeQXVyMTM1MTE1NDMx.jpg"
+    },
+    {
+        "title": "Шан-Чи и легенда десяти колец",
+        "query": "tt9376612",
+        "certificate": "16+",
+        "runtime": "132 min",
+        "genre": "Action, Adventure, Fantasy ",
+        "rating": "7.5",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTc0ODZlNGEtN2ExYi00ZWU1LTgwNDktYjAyZTMzYjcxN2ZkXkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Пушпа",
+        "query": "tt9389998",
+        "certificate": "",
+        "runtime": "179 min",
+        "genre": "Action, Adventure, Crime ",
+        "rating": "7.9",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmQ4YmM3NjgtNTExNC00ZTZhLWEwZTctYjdhOWI4ZWFlMDk2XkEyXkFqcGdeQXVyMTI1NDEyNTM5.jpg"
+    },
+    {
+        "title": "Главный герой",
+        "query": "tt6264654",
+        "certificate": "16+",
+        "runtime": "115 min",
+        "genre": "Action, Adventure, Comedy ",
+        "rating": "7.2",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTZkYjNjNzEtZTZmOC00NjM0LTgzYzItYTE5ZGM1MDUwNTlmXkEyXkFqcGdeQXVyNzI1NzMxNzM@.jpg"
+    },
+    {
+        "title": "Мстители: Финал",
+        "query": "tt4154796",
+        "certificate": "16+",
+        "runtime": "181 min",
+        "genre": "Action, Adventure, Drama ",
+        "rating": "8.4",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDM3NjYxNjQtYjJlNy00N2M4LThhZDMtNjhhZTA0NmFhODdjXkEyXkFqcGdeQXVyNzYwNTMyMTA@.jpg"
+    },
+    {
+        "title": "Мир Юрского периода: Господство",
+        "query": "tt8041270",
+        "certificate": "PG-13",
+        "runtime": "",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDhkODhmZjEtMmE5My00MTE1LTllZGItMDkwOTZlMjY1ZWUyXkEyXkFqcGdeQXVyODk4OTc3MTY@.jpg"
+    },
+    {
+        "title": "Гарри Поттер и философский камень",
+        "query": "tt0241527",
+        "certificate": "12+",
+        "runtime": "152 min",
+        "genre": "Adventure, Family, Fantasy ",
+        "rating": "7.6",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@.jpg"
+    },
+    {
+        "title": "Человек-паук: Возвращение домой",
+        "query": "tt2250912",
+        "certificate": "16+",
+        "runtime": "133 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "7.4",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@.jpg"
+    },
+    {
+        "title": "Веном 2",
+        "query": "tt7097896",
+        "certificate": "16+",
+        "runtime": "97 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "6",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzI0OTc2N2MtM2JiNi00NmQzLWIxZWUtNmRiNDNkYTQ0ZjQ4XkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Тор: Любовь и гром",
+        "query": "tt10648342",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Fantasy ",
+        "rating": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzZjMTIwNjYtYTg0ZS00ZDFjLTk3MDctMTY3ZTgwMjQ4MmFiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@.jpg"
+    },
+    {
+        "title": "Человек-паук",
+        "query": "tt0145487",
+        "certificate": "12+",
+        "runtime": "121 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "7.3",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@.jpg"
+    },
+    {
+        "title": "Интерстеллар",
+        "query": "tt0816692",
+        "certificate": "12+",
+        "runtime": "169 min",
+        "genre": "Adventure, Drama, Sci-Fi ",
+        "rating": "8.6",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@.jpg"
+    },
+    {
+        "title": "Властелин колец: Братство кольца",
+        "query": "tt0120737",
+        "certificate": "12+",
+        "runtime": "178 min",
+        "genre": "Action, Adventure, Drama ",
+        "rating": "8.8",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@.jpg"
+    },
+    {
+        "title": "Мортал Комбат",
+        "query": "tt0293429",
+        "certificate": "18+",
+        "runtime": "110 min",
+        "genre": "Action, Adventure, Fantasy ",
+        "rating": "6.1",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@.jpg"
+    },
+    {
+        "title": "Легенда о зелёном рыцаре",
+        "query": "tt9243804",
+        "certificate": "18+",
+        "runtime": "130 min",
+        "genre": "Adventure, Drama, Fantasy ",
+        "rating": "6.6",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNTdiNWMtOWY0My00MjM4LTkwNzMtOGI0YThhN2Q4M2I4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@.jpg"
+    },
+    {
+        "title": "Чёрная Вдова",
+        "query": "tt3480822",
+        "certificate": "16+",
+        "runtime": "134 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "6.7",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjVkNGU1NWUtYmE1MS00NmEyLWE0YmEtOGQ4NGYzZDM3NDI1XkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Человек-паук: Вдали от дома",
+        "query": "tt6320628",
+        "certificate": "12+",
+        "runtime": "129 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "7.4",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@.jpg"
+    },
+    {
+        "title": "Новый Человек-паук",
+        "query": "tt0948470",
+        "certificate": "12+",
+        "runtime": "136 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "6.9",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzg5MjM5NTctMDhmMy00ZTY0LWEwYzMtZjRlYmNmZGQ5MTUwXkEyXkFqcGdeQXVyNzI1NzMxNzM@.jpg"
+    },
+    {
+        "title": "Фантастические твари: Тайны Дамблдора",
+        "query": "tt4123432",
+        "certificate": "12+",
+        "runtime": "",
+        "genre": "Adventure, Family, Fantasy ",
+        "rating": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWUxMjMzM2UtOTlhNS00YWEyLTk0NGQtZGE4MTlhYWM0NTNhXkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Аватар 2",
+        "query": "tt1630029",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@.jpg"
+    },
+    {
+        "title": "Мстители: Война бесконечности",
+        "query": "tt4154756",
+        "certificate": "16+",
+        "runtime": "149 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "8.4",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@.jpg"
+    },
+    {
+        "title": "Лига справедливости Зака Снайдера",
+        "query": "tt12361974",
+        "certificate": "18+",
+        "runtime": "242 min",
+        "genre": "Action, Adventure, Fantasy ",
+        "rating": "8.1",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2.jpg"
+    },
+    {
+        "title": "Бесславные ублюдки",
+        "query": "tt0361748",
+        "certificate": "18+",
+        "runtime": "153 min",
+        "genre": "Adventure, Drama, War ",
+        "rating": "8.3",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@.jpg"
+    },
+    {
+        "title": "Начало",
+        "query": "tt1375666",
+        "certificate": "12+",
+        "runtime": "148 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "8.8",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@.jpg"
+    },
+    {
+        "title": "Disney's Snow White",
+        "query": "tt6208148",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Adventure, Drama, Family ",
+        "rating": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODNkMzQ4OTktNDQyZC00OGU1LWI1ZmUtOTg5NTA4NTgwNGQyXkEyXkFqcGdeQXVyODUzMjQxMTA@.jpg"
+    },
+    {
+        "title": "Человек-паук: Через Вселенные",
+        "query": "tt4633694",
+        "certificate": "6+",
+        "runtime": "117 min",
+        "genre": "Animation, Action, Adventure ",
+        "rating": "8.4",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGMwYjc4ZDktMzkwZi00MWE2LTlmNTMtNjlmYmE1ZWFiN2VmXkEyXkFqcGdeQXVyMTgxOTIzNzk@.jpg"
+    },
+    {
+        "title": "Красавица и дракон",
+        "query": "tt13651628",
+        "certificate": "PG",
+        "runtime": "121 min",
+        "genre": "Animation, Adventure, Drama ",
+        "rating": "7.3",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGU2Yjc0Y2YtMDU0MS00NTFiLTlkMGMtOTcxOWIzMjhkZmZkXkEyXkFqcGdeQXVyMDA4NzMyOA@@.jpg"
+    },
+    {
+        "title": "Дюна",
+        "query": "tt0087182",
+        "certificate": "12+",
+        "runtime": "137 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "6.4",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTAzYzNlMDMtMGRjYS00M2UxLTk0MmEtYmE4YWZiYmEwOTIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@.jpg"
+    },
+    {
+        "title": "Человек-паук 3: Враг в отражении",
+        "query": "tt0413300",
+        "certificate": "12+",
+        "runtime": "139 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "6.2",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTk1NTdjMTktNTFlOC00MDBjLTg0ZDEtN2ZmM2Y5MjY0Mzk1XkEyXkFqcGdeQXVyNzI1NzMxNzM@.jpg"
+    },
+    {
+        "title": "Гарри Поттер и узник Азкабана",
+        "query": "tt0304141",
+        "certificate": "16+",
+        "runtime": "142 min",
+        "genre": "Adventure, Family, Fantasy ",
+        "rating": "7.9",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@.jpg"
+    },
+    {
+        "title": "Гарри Поттер и кубок огня",
+        "query": "tt0330373",
+        "certificate": "12+",
+        "runtime": "157 min",
+        "genre": "Adventure, Family, Fantasy ",
+        "rating": "7.7",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@.jpg"
+    },
+    {
+        "title": "Морбиус",
+        "query": "tt5108870",
+        "certificate": "16+",
+        "runtime": "108 min",
+        "genre": "Action, Adventure, Drama ",
+        "rating": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODNjMGE1MTItNmM4OS00ZjMwLWJhYjYtZTljZWRjYzJlNTVmXkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Kingsman: Секретная служба",
+        "query": "tt2802144",
+        "certificate": "18+",
+        "runtime": "129 min",
+        "genre": "Action, Adventure, Comedy ",
+        "rating": "7.7",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTM3ZTllNzItNTNmOS00NzJiLTg1MWMtMjMxNDc0NmJhODU5XkEyXkFqcGdeQXVyODE5NzE3OTE@.jpg"
+    },
+    {
+        "title": "Новый Человек-паук: Высокое напряжение",
+        "query": "tt1872181",
+        "certificate": "12+",
+        "runtime": "142 min",
+        "genre": "Action, Adventure, Sci-Fi ",
+        "rating": "6.6",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDg3ODJmZWUtZDczMy00YzI5LWE4M2EtNDc4NWQ0M2YwNzExXkEyXkFqcGdeQXVyNzI1NzMxNzM@.jpg"
+    },
+    {
+        "title": "Круэлла",
+        "query": "tt3228774",
+        "certificate": "12+",
+        "runtime": "134 min",
+        "genre": "Adventure, Comedy, Crime ",
+        "rating": "7.4",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTZmZTIwY2UtN2FiMi00YWEzLTgzY2UtZDgxNjAwNTAwZjJiXkEyXkFqcGdeQXVyNzI1NzMxNzM@.jpg"
+    },
+    {
+        "title": "Хоббит: Нежданное путешествие",
+        "query": "tt0903624",
+        "certificate": "12+",
+        "runtime": "169 min",
+        "genre": "Adventure, Fantasy ",
+        "rating": "7.8",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTFlNDVhMTYtZDVhMy00NGU2LWJhNTYtMWRiODIzNzM2NjQxXkEyXkFqcGdeQXVyNzI1NzMxNzM@.jpg"
+    },
+    {
+        "title": "Затерянный город",
+        "query": "tt13320622",
+        "certificate": "16+",
+        "runtime": "92 min",
+        "genre": "Action, Adventure, Comedy ",
+        "rating": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWViYjc2ZDItZDI1OS00ZmE5LTk1ODctMmVmNzA5OWY2YWY3XkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
     }
 ]
