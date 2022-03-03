@@ -1,0 +1,13 @@
+:root {
+    --light-blue: #2f95f3;
+    --dark-blue: #32354f;
+    --white: #fff;
+    --bg-color-light: var(--light-blue);
+}
+$bg-color: var(--white);
+$text-color: var(--light-blue);
+
+@mixin theme {
+    background: var(--white);
+    color: var(--light-blue);
+}

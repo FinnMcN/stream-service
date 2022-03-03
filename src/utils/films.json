@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Человек-паук: Нет пути домой",
+        "query": "tt10872600",
+        "certificate": "12+",
+        "runtime": "148 min",
+        "genre": "Action, Adventure, Fantasy ",
+        "rating": "8.7",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2QxZDAxYzUtOWQzNi00NmVmLTk0MjMtNDUxM2M1YTJkZDdlXkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Вечные",
+        "query": "tt9032400",
+        "certificate": "18+",
+        "runtime": "156 min",
+        "genre": "Action, Adventure, Fantasy ",
+        "rating": "6.5",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDM2MGJjN2MtMGVjZS00NGVlLThiN2ItYzU5Mzk5ZTQyYzJlXkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Зверопой 2",
+        "query": "tt6467266",
+        "certificate": "6+",
+        "runtime": "110 min",
+        "genre": "Animation, Adventure, Comedy ",
+        "rating": "7.5",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjQzNmFjN2ItNTQzZC00YzM5LTg5MzAtZWYyMjgxZTM2MWZlXkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Дюна",
+        "query": "tt1160419",
+        "certificate": "12+",
+        "runtime": "155 min",
+        "genre": "Action, Adventure, Drama ",
+        "rating": "8.1",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzQ5MjRiNDUtZDc3Zi00Mzg5LWE0NDAtYTA3MWY3MzI2MjFiXkEyXkFqcGdeQXVyNzI1NzMxNzM@.jpg"
+    },
+    {
+        "title": "Анчартед: На картах не значится",
+        "query": "tt1464335",
+        "certificate": "12+",
+        "runtime": "116 min",
+        "genre": "Action, Adventure ",
+        "rating": "",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWVhY2I5M2QtOTZlMy00N2Q1LTg0ZjEtYzU4MGYzY2U4Mjc0XkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Охотники за привидениями: Наследники",
+        "query": "tt4513678",
+        "certificate": "12+",
+        "runtime": "124 min",
+        "genre": "Adventure, Comedy, Fantasy ",
+        "rating": "7.3",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTQ2Mzc3ODYtYmJkYy00NDM5LThkNTEtYjcxNWU3MzY2YTk4XkEyXkFqcGdeQXVyNDM1ODc2NzE@.jpg"
+    },
+    {
+        "title": "Ледниковый период: Приключения Бака",
+        "query": "tt13634480",
+        "certificate": "PG",
+        "runtime": "82 min",
+        "genre": "Animation, Adventure, Comedy ",
+        "rating": "4.7",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTA4NmFiZjQtYWI2NC00Y2Y0LWI5M2ItOTcwZmM5YzliOGViXkEyXkFqcGdeQXVyNjMwMTM0MTA@.jpg"
+    }
+]

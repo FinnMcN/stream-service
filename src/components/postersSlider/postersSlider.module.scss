@@ -1,0 +1,18 @@
+.posters {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 25px 0;
+    gap: calc(8% / 3);
+}
+.posters__item {
+    flex: 0 0 23%;
+    margin-bottom: 35px;
+}
+.btn {
+    padding: 10px 15px;
+    border-radius: 15px;
+    background: linear-gradient(166deg, rgba(2, 0, 36, 1) 0%, rgba(0, 212, 255, 1) 100%);
+    color: #fff;
+    width: fit-content;
+    cursor: pointer;
+}

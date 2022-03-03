@@ -1,0 +1,28 @@
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    &__item {
+        font-size: 20px;
+        color: inherit;
+    }
+    &__categories {
+        position: absolute;
+        display: none;
+        flex-wrap: wrap;
+        background-color: #2f95f3;
+        padding: 10px 20px;
+        bottom: 0;
+        left: 0;
+        transform: translate(0, 100%);
+        gap: 15px;
+        transition: opacity ease 0.3s;
+    }
+    &__category {
+        color: rgb(75, 67, 67);
+    }
+    &__item:hover + &__categories {
+        display: flex;
+    }
+}

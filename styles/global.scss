@@ -1,0 +1,18 @@
+@import "vars";
+body {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    margin: 0;
+}
+.app.light {
+    color: var(--light-blue);
+    background: var(--white);
+}
+.app.dark {
+    color: var(--white);
+    background: var(--dark-blue);
+}
+a {
+    text-decoration: none;
+}
+button {
+}

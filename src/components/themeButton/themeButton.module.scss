@@ -1,0 +1,13 @@
+.theme__button {
+    background: #32354f;
+    width: 50px;
+    height: 35px;
+    border-radius: 30px;
+    outline: none;
+    border-style: none;
+    cursor: pointer;
+    transition: box-shadow ease 0.3s;
+    &:hover {
+        box-shadow: 4px 4px 8px 0px rgba(50, 53, 79, 0.2);
+    }
+}
