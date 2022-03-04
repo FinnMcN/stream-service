@@ -12,13 +12,7 @@ export default function Poster({ data }: any) {
             <div className={styles.poster}>
                 <div className={styles.poster__inner}>
                     <div className={styles.poster__side}>
-                        <Image
-                            className={styles.poster__img}
-                            src={poster}
-                            layout="fill"
-                            priority={true}
-                            alt=""
-                        />
+                        <img className={styles.poster__img} src={poster} alt="" />
                         <div className={styles.poster__rating}>{certificate}</div>
                     </div>
                     <div className={`${styles.poster__side} ${styles.poster__about}`}>
