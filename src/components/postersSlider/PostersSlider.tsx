@@ -1,5 +1,5 @@
 //hooks
-import { useEffect, useState, useCallback, useRef } from "react";
+import { useEffect, useState, useCallback, useRef, useMemo } from "react";
 
 //components
 import Poster from "./poster/Poster";
@@ -18,24 +18,25 @@ export default function PostersBlock({ data }: { data: IPoster[] }) {
     const [posters, setPosters] = useState<typeof data>([]);
     const INITIAL_AMOUNT_OF_POSTERS = 12;
     const displayedPosters = useRef(INITIAL_AMOUNT_OF_POSTERS);
+
     console.log("render");
-    console.log(posters);
 
-    const loadPosters = useCallback(
-        (e: MouseEvent): void => {
-            const postersToShow = 4;
-            const endDisplayedPosters = displayedPosters.current + postersToShow;
+    const getNewPosters = () => {
+        const postersToShow = 4;
+        const endDisplayedPosters = displayedPosters.current + postersToShow;
 
-            const newPosters = data.slice(displayedPosters.current, endDisplayedPosters);
-            setPosters((state) => [...state, ...newPosters]);
+        const newPosters = data.slice(displayedPosters.current, endDisplayedPosters);
+        displayedPosters.current = endDisplayedPosters;
 
-            displayedPosters.current = endDisplayedPosters;
-        },
-        [data],
-    );
+        return newPosters;
+    };
+
+    const click = () => {
+        setPosters((state) => [...state, ...getNewPosters()]);
+    };
 
     useEffect(() => {
-        const initialPosters = data.slice(0, INITIAL_AMOUNT_OF_POSTERS);
+        const initialPosters = data.slice(0, displayedPosters.current);
         setPosters(initialPosters);
     }, [data]);
 
@@ -51,8 +52,8 @@ export default function PostersBlock({ data }: { data: IPoster[] }) {
                     );
                 })}
             </div>
-            <div className={styles.btn} onClick={loadPosters}>
-                Show more
+            <div className={styles.btn} onClick={click}>
+                Показать еще
             </div>
         </Container>
     );
