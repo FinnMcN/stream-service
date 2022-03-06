@@ -14,9 +14,6 @@ interface IFilm extends IPoster {
 
 const Film: NextPage = ({ filmData }: InferGetStaticPropsType<typeof getStaticProps>) => {
     const { title, query, certificate, runtime, genre, rating, poster } = filmData;
-    useEffect(() => {
-        console.log(filmData);
-    });
 
     return (
         <>
