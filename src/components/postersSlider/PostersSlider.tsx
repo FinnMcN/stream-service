@@ -1,5 +1,6 @@
 //hooks
-import { useEffect, useState, useCallback, useRef, useMemo } from "react";
+import { useEffect, useState, useRef } from "react";
+import useIntersectionObserver from "@/hooks/useObserver";
 
 //components
 import Poster from "./poster/Poster";
@@ -9,7 +10,6 @@ import Container from "../container/Container";
 import styles from "./postersSlider.module.scss";
 
 //types
-import { MouseEvent } from "react";
 import type { IPoster } from "@/types/PosterData";
 
 /* import { FixedSizeList } from "react-window"; */
@@ -17,28 +17,57 @@ import type { IPoster } from "@/types/PosterData";
 export default function PostersBlock({ data }: { data: IPoster[] }) {
     const [posters, setPosters] = useState<typeof data>([]);
     const INITIAL_AMOUNT_OF_POSTERS = 12;
-    const displayedPosters = useRef(INITIAL_AMOUNT_OF_POSTERS);
 
-    console.log("render");
+    const [isVisibleBtn, setIsVisibleBtn] = useState<boolean>(true);
+    const [isClicked, setIsClicked] = useState<boolean>(false);
+    const btn = useRef<HTMLButtonElement | null>(null);
+    const onScreen = useIntersectionObserver(btn, {
+        root: null,
+        rootMargin: "0px",
+        threshold: 1,
+    });
 
-    const getNewPosters = () => {
+    const getNewPosters = (postersLength: number) => {
         const postersToShow = 4;
-        const endDisplayedPosters = displayedPosters.current + postersToShow;
+        const endDisplayedPosters = postersLength + postersToShow;
 
-        const newPosters = data.slice(displayedPosters.current, endDisplayedPosters);
-        displayedPosters.current = endDisplayedPosters;
+        const newPosters = data.slice(postersLength, endDisplayedPosters);
 
         return newPosters;
     };
 
+    const updatePosters = () => {
+        setPosters((posters) => [...posters, ...getNewPosters(posters.length)]);
+    };
+
+    const postersLimit = () => {
+        const allPostersLength = data.length;
+        if (allPostersLength) {
+            return posters.length >= allPostersLength;
+        }
+    };
+
     const click = () => {
-        setPosters((state) => [...state, ...getNewPosters()]);
+        updatePosters();
+        setIsClicked(true);
     };
 
     useEffect(() => {
-        const initialPosters = data.slice(0, displayedPosters.current);
+        const initialPosters = data.slice(0, INITIAL_AMOUNT_OF_POSTERS);
         setPosters(initialPosters);
     }, [data]);
+
+    useEffect(() => {
+        if (postersLimit()) {
+            setIsVisibleBtn(false);
+        }
+    }, [posters]);
+
+    useEffect(() => {
+        if (onScreen && isClicked) {
+            updatePosters();
+        }
+    }, [onScreen]);
 
     return (
         <Container>
@@ -52,9 +81,11 @@ export default function PostersBlock({ data }: { data: IPoster[] }) {
                     );
                 })}
             </div>
-            <div className={styles.btn} onClick={click}>
-                Показать еще
-            </div>
+            {isVisibleBtn ? (
+                <button className={styles.btn} onClick={click} ref={btn}>
+                    Показать еще
+                </button>
+            ) : null}
         </Container>
     );
 }

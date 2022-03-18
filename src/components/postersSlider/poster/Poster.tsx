@@ -8,6 +8,8 @@ import type { IPoster } from "@/types/PosterData";
 function Poster({ data }: any) {
     const { title, poster, query, certificate } = data;
 
+    console.log("poste");
+
     return (
         <LinkRouter path={`/films/${query}`}>
             <div className={styles.poster}>
